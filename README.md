@@ -1,7 +1,10 @@
-## training-romeome
-special 4 U     
+## training-romeome . 
+
+### Special 4 U    
+
 :star::star::star::star::star:
 
+Contents:    
 1. text1   
 2. text2      
 3. text3      
